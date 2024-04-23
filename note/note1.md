@@ -6,7 +6,7 @@
 
 ##### 大模型概要：
 
-![屏幕截图 2024-04-16 215323](C:\Users\27111\Desktop\课1\屏幕截图 2024-04-16 215323.png)
+![屏幕截图 2024-04-16 215323]((https://github.com/wozhendehaokaixin/InternLM2/blob/main/png/%E8%AF%BE1/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-04-16%20215323.png))
 
 ![屏幕截图 2024-04-16 215448](C:\Users\27111\Desktop\课1\屏幕截图 2024-04-16 215448.png)
 
